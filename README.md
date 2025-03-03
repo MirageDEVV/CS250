@@ -1,3 +1,10 @@
+CS-250 FINAL PROJECT
+Final Paper on Sprint Review and Retrospective
+Agile Presntation
+
+Below will be my last journal entry for the class, attatched will be my final assingment. 
+
+
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 I think this is one of those skills that takes time to master. As long as there is an open line of communication with the end-user, all types of changes can be implemented by way of many small and simple releases. User stories helps with streamlining client needs by asking the questions, "Who?," "What?," and "Why?."
 
